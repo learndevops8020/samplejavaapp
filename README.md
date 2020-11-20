@@ -1,14 +1,4 @@
 
 Sample Java Applicaiton V1.1s
-sdf
-asdf
-asdasdsa
-asdasdas
-testing
-test1
-error why 
-test2
-test 3
-jgfjhgjkhkjhkjl
-bvnbbmnbmnb
-test 11/20/2020
+test today at 12.15
+
