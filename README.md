@@ -1,4 +1,4 @@
 
-Sample Java Applicaiton V1.1s
-test today at 5.04
+Sample Java Applicaiton V1.1
+test today at 3pm
 
